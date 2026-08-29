@@ -1,1 +1,1 @@
-"# minelog" 
+From Code to Circuits is a compiler project that turns code into actual Minecraft Redstone circuits. We will create a simple language for describing circuit behaviour, then build a compiler that converts this code into optimized Redstone logic and automatically generates the corresponding circuit in Minecraft. This removes the need to manually place and connect hundreds of Redstone components, making complex digital systems faster and easier to design, modify, and build.
